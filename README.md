@@ -1,4 +1,4 @@
-# CIS-workshop
+# RHEL-CIS-workshop
 CIS-Ansible-Workshop
 
     sudo dnf install \
